@@ -20,13 +20,13 @@ Check prerequites for Openshift Origin requirements: https://docs.openshift.org/
 
 ## EC2 instances:
 - Master: 
- - 4CPUs, 16G (m4.xlarge)
- - 80G / + /var
- - 10G /home
- - 20G free unallocated storage (for setting up docker storage later)
+ * 4CPUs, 16G (m4.xlarge)
+ * 80G / + /var
+ * 10G /home
+ * 20G free unallocated storage (for setting up docker storage later)
 - Node1+Node2:
- - 2 CPU, 16GB (m4.xlarge)
- - 60G / + /var
- - 10G /home
- - 20G free unallocated storage (for setting up docker storage later)
+ * 2 CPU, 16GB (m4.xlarge)
+ * 60G / + /var
+ * 10G /home
+ * 20G free unallocated storage (for setting up docker storage later)
 		
